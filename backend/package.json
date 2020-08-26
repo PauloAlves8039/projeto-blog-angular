@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "backend",
   "version": "1.0.0",
   "description": "Backend de uma API para uso de um Blog.",
   "main": "index.js",
