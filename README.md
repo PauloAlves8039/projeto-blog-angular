@@ -28,5 +28,9 @@ projeto desenvolvido no lab [Desenvolvendo seu blog com as tecnologias de Java e
 ### Contato
 ![screenshot2](https://github.com/PauloAlves8039/projeto-blog-angular/blob/master/frontend/blog/src/assets/screenshot2.png)
 
+## :pencil: Licença
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/projeto-blog-angular/blob/master/LICENSE.md)
+
+
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
