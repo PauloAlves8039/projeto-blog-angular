@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://cli.angular.io/"><img src="https://img.shields.io/badge/angular-CLI-red"></a>
   <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/"><img src="https://img.shields.io/badge/bootstrap-v4.5.0-blueviolet"></a>
+  <a href="https://github.com/PauloAlves8039/projeto-blog-angular/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-%2376EE00"></a>
 </p>
 
 
